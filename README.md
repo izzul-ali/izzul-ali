@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning **Nodejs**
-- 💬 Ask me about **React, Nextjs and Tailwindcss**
-- 🚀 Using **Golang** for the backend
+- 🌱 I’m currently learning **Flutter**
+- 💬 Ask me about **Reactjs, Nextjs and Tailwindcss**
+- 🛠️ Using **Nodejs** for the backend
 - 📫 How to reach me: izzuldev@gmail.com
