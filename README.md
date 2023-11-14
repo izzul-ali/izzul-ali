@@ -21,4 +21,4 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzul-ali&count-private=true&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://stats-ten-steel.vercel.app/api/top-langs/?username=izzul-ali&hide=javascript&layout=compact&theme=dark&hide_border=true)
