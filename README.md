@@ -1,9 +1,4 @@
-### Hi there 👋
-
-- 🌱 I’m currently learning about **Mobile App Development**
-- 💬 Feel free to ask me about Web Development or Mobile App Development
-- 🛠️ Using **Nodejs & Typescript** for the backend
-- 📫 How to reach me: izzuldev@gmail.com
+<h1 align="center">Hi 👋, I'm Izzul Ma'ali</h1>
   
 ---
 
